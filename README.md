@@ -24,10 +24,12 @@ This bootcamp is designed to help participants at all levels—Beginner to Exper
 
 ## 🚀 Goals & Expectations
 
-✅ Gain a deep understanding of GenAI concepts and applications
-✅ Work on practical AI workloads using open-source and cloud-based tools
-✅ Optimize and deploy AI models efficiently
-✅ Participate in discussions and collaborate with other students
+✅ Gain a deep understanding of GenAI concepts and applications.
+✅ Work on practical AI workloads using open-source and cloud-based tools.
+✅ Optimize and deploy AI models efficiently.
+✅ Participate in discussions and collaborate with other students.
+✅ Learn fondamentals to participate in webinars and projects of the Capgemini's **DevOps Communauté France - Open** in Collaboration wih Imad Soultani
+
 
 ## 📢 Notes
 
