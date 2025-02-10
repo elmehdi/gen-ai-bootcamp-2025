@@ -22,13 +22,14 @@ This bootcamp is designed to help participants at all levels—Beginner to Exper
 | 09/02/2025    | Read all the posts of genai-essential forum (Discord)   <br> Created a Conceptual diagram for the system using eraser.io |
 | 10/02/2025   | in progress ...    |
 
-## 🚀 Goals & Expectations
+## 🚀 Goals & Expectations  
 
-✅ Gain a deep understanding of GenAI concepts and applications.
-✅ Work on practical AI workloads using open-source and cloud-based tools.
-✅ Optimize and deploy AI models efficiently.
-✅ Participate in discussions and collaborate with other students.
-✅ Learn fondamentals to participate in webinars and projects of the Capgemini's **DevOps Communauté France - Open** in Collaboration wih Imad Soultani
+✅ Gain a deep understanding of GenAI concepts and applications.  
+✅ Work on practical AI workloads using open-source and cloud-based tools.  
+✅ Optimize and deploy AI models efficiently.  
+✅ Participate in discussions and collaborate with other students.  
+✅ Learn fundamentals to participate in webinars and projects of the Capgemini's **DevOps Communauté France - Open** in collaboration with Imad Soultani.  
+
 
 
 ## 📢 Notes
